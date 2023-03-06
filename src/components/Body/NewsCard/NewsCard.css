@@ -1,0 +1,17 @@
+.newsCard {
+    margin-bottom: 2rem;
+    background-color: #f6f6f6;
+    padding: 1rem;
+    border-radius: 4px;
+}
+
+.newsCard h2 {
+    margin-bottom: 0;
+    text-align: left;
+    font-size: 1.5rem;
+ 
+}
+
+.newsCard img {
+    width: 100%
+}
